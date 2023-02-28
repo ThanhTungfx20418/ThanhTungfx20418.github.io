@@ -17,7 +17,7 @@ body {
 header {
   height: 70vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url(../img/banner.jpg);
+    url(../banner.jpg);
   padding-top: 10rem;
   object-fit: cover;
   background-size: cover;
