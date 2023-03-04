@@ -22,7 +22,7 @@
   .low {
     display: grid;
     grid-template-columns: 1fr;
-     padding: 0;
+    padding: 0;
   }
   .sale-1 {
     border: none;
