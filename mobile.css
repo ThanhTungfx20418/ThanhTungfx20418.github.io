@@ -14,9 +14,15 @@
     width: 40%;
     line-height: 2;
   }
+  
+  .container {
+    margin-left: 0 !important;
+  }
+  
   .low {
     display: grid;
     grid-template-columns: 1fr;
+     padding: 0;
   }
   .sale-1 {
     border: none;
