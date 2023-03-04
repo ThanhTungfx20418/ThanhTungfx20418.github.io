@@ -4,6 +4,14 @@
   html {
     font-size: 50%;
   }
+  
+  header {
+    height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url(../img/banner.jpg);
+    background-size: cover;
+
+  }
 
   .low {
     grid-template-columns: repeat(4, 1fr);
