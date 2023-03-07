@@ -45,6 +45,35 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
   }
+  
+   .div1 {
+    grid-area: 1/1;
+  }
+
+  .div3-1 {
+    grid-area: 1;
+    height: 35rem;
+  }
+
+  .div3-3 {
+    grid-area: 2 / 1;
+  }
+
+  .div2-2-2 {
+    grid-area: 3 / 1;
+  }
+
+  .div1-2-2 {
+    grid-area: 2;
+    margin-top: -12rem;
+    height: 37rem;
+  }
+
+  .div1-2 {
+    grid-area: 3;
+    margin-top: -50px;
+  }
+
 
   /* Phần 5 */
   .alt {
