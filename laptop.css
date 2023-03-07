@@ -192,8 +192,17 @@ em {
 .button-1 {
   background-color: #339af0;
   border: none;
-  
+  width: 3rem;
+  height: 2px;
 }
+
+.button-2 {
+  background-color: #339af0;
+  border-radius: 5rem;
+  width: 5rem;
+  height: 5rem;
+}
+
 .button {
   border: none;
   width: 3rem;
