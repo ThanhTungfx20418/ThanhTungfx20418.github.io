@@ -50,6 +50,20 @@
   .grid {
     grid-template-columns: 1fr;
   }
+  
+   .div-0 {
+    display: unset;
+  }
+
+  .div1,
+  .div3-1,
+  .div3-3,
+  .div2-2-2,
+  .div1-2-2,
+  .div1-2 {
+    margin-top: 40px;
+  }
+  
   .height {
     display: grid;
     grid-template-columns: 1fr;
