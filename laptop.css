@@ -17,7 +17,7 @@ body {
 header {
   height: 500px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url(../img/banner.jpg);
+    url(../banner.jpg);
   background-size: cover;
   position: relative;
 }
