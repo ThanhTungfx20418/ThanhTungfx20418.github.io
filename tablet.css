@@ -43,11 +43,18 @@
   .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
   }
   
+   .project {
+    width: 90%;
+  }
+
    .div1 {
     grid-area: 1/1;
+  }
+  
+  .div1-1-2 {
+    height: 50rem;
   }
 
   .div3-1 {
@@ -65,13 +72,13 @@
 
   .div1-2-2 {
     grid-area: 2;
-    margin-top: -12rem;
+    margin-top: -15rem;
     height: 37rem;
   }
 
   .div1-2 {
     grid-area: 3;
-    margin-top: -50px;
+    margin-top: -9rem;
   }
 
 
