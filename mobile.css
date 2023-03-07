@@ -1,6 +1,6 @@
-/* Below 767px (mobile) */
+/* Below 722px (mobile) */
 /**************************/
-@media (max-width: 48em) {
+@media (max-width: 45em) {
   
   
   header {
@@ -30,8 +30,8 @@
   }
   
   .low {
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     padding: 0;
   }
   .sale-1 {
