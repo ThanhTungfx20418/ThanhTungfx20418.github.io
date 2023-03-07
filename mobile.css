@@ -1,16 +1,13 @@
 /* Below 722px (mobile) */
 /**************************/
 @media (max-width: 45em) {
-  
-  
   header {
-    height: 200px;
+    height: 20rem;
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
       url(../banner.jpg);
     background-size: cover;
-
   }
-  
+
   .grid-4-1 {
     display: grid;
     grid-template-columns: 1fr;
@@ -24,11 +21,11 @@
     width: 40%;
     line-height: 2;
   }
-  
+
   nav .container {
     margin-left: 0 !important;
   }
-  
+
   .low {
     display: flex;
     flex-direction: column;
@@ -48,10 +45,10 @@
   }
 
   .grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
-  
-   .div-0 {
+
+  .div-0 {
     display: unset;
   }
 
@@ -63,7 +60,7 @@
   .div1-2 {
     margin-top: 40px;
   }
-  
+
   .height {
     display: grid;
     grid-template-columns: 1fr;
